@@ -1,2 +1,2 @@
 # pylib
-All purpose py lib
+All purpose python library
